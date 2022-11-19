@@ -1,7 +1,4 @@
 # TestRepo1
-This is a demo repo for OSSE lab session 1
+This is a demo repo for OSSE lab session 2
 
-Demo 1
-
-Demo 2
-
+Added a class Triangle which calculates surface area and perimeter.
